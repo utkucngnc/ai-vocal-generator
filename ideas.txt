@@ -1,0 +1,2 @@
+fine tune a generator & discriminator. Generator is text2speech generator. Discriminator discriminates the voice to be cloned.
+After fine-tuning, the generator will take text prompts and return vocals. 
